@@ -2,7 +2,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class New_project_test_1_Rock_paper_sissor{
+public class New_project_test_1_Rock_paper_sissor {
     public static void main(String[] args) {
         String player_wish;
         String player_move;
