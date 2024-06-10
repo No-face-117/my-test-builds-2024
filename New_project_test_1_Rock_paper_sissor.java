@@ -1,4 +1,4 @@
-// Your First Program
+// My First java Program
 import java.util.Random;
 import java.util.Scanner;
 
